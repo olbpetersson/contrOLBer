@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MIUN Project</string>
+    <string name="menu_settings">Keyboard</string>
+    <string name="add_profile_settings_text">Add Profile</string>
+    <string name="title_activity_main">Server list</string>
+ 	<string name="addProfileButtonText">Add Profile</string>
+
+</resources>
